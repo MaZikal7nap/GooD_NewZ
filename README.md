@@ -23,6 +23,6 @@ React Web App - Get Daily Updtaed OR Live News Around THe World As Fast As Possi
 
 * <i>I'm Using A Free API News API {https://newsapi.org/}, And Of Course, With The Free Version, You'll Face Some Problems Like Article's image Not Loading At All, As Some Articles Don't Have A "urlToImage," Which Is Responsible For The News Article's Thumbnail. I've Filtered Out Those Kinds Of Articles Already In The News.js File. So Only Articles With "urlToImage" Will Load. This Will Also Limit The Number Of Articles, So Keep That Thing In Mind Also.
   
-* After Some Time, There Is A Possibility That This Won't Work At All, As They Keep Changing Their Workflow, And Sometimes They Don't Even Update Their News Articles At All.
+* After Some Time, There Is A Possibility That This Won't Work At All, As They Keep Changing Their Workflow, And Sometimes They Don't Even Update News Articles At All.
 
 * This Free API Only Works On A Local Network. Yes, If You Try To Run This Anywhere Other Than On Localhost, It Will Not Work. For That, You Have To Purchase A Subscription.</i>
