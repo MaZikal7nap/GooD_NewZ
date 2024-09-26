@@ -8,6 +8,7 @@ React Web App - Get Daily Updtaed OR Live News Around THe World As Fast As Possi
   <li> Simple &  Easy To Use UI </li>
   <li> Top Loading Bar With Spinner </li>
   <li> Detailed News With Their Timeline & Author Details </li>
+  <li> Hide API key from other </li>
 </ul>
 
 ## Interface & UI
